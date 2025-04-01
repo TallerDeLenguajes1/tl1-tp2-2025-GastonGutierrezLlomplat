@@ -1,0 +1,9 @@
+** ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No puedo ver este archivo en la rama main, ya que fue creado en otra rama distinta, por lo cual no puedo visualizarlo.
+
+** En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+Veo que en el graph sigue dos ramas. En la rama main le sigue un commit con el archivo Respuestas.txt, y en la rama
+Opcion_2 le sigue un commit con el ejercicio tp2_1_2.c, por último se mergean las dos ramas.
+
+
+
